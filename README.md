@@ -1,3 +1,4 @@
-# hello-world
+# hello-new world
 from the tutorial
-en hier wat aanpassingen aan origineel
+en hier wat nieuwe aanpassingen aan origineel
++ correctie
